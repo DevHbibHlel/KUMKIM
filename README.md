@@ -74,8 +74,5 @@ This repository serves as a record of the work that was done. The attached acade
 
 I now maintain a strict habit of pushing all work to GitHub from the first day of any project and keeping regular remote backups.
 
-See Also
-My other active projects Including my latest real-time full-stack web applications (React + TypeScript + Supabase).
-
 Note: If you are a recruiter or developer reviewing this, feel free to read the attached PDF report to see the detailed sequence diagrams, class architectures, and sprint planning that went into this 11,000-line system.
  [Kumkim_PFF_Report.pdf](https://github.com/user-attachments/files/35215559/Kumkim_PFF_Report.pdf)
